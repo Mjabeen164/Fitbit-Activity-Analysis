@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Munawer Jabeen | Data Analyst" width="850"/>
+</p>
+
 
 # Fitbit Activity Analysis
 
