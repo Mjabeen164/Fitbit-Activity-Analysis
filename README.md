@@ -1,7 +1,7 @@
 
 # Fitbit Activity Analysis
 
-A Python project to analyze Fitbit activity data. Explores daily routines, physical activity, sedentary behavior, calorie burn, and rest patterns using Pandas, Seaborn, and Matplotlib.
+A Python and excel project to analyze Fitbit activity data. Explores daily routines, physical activity, sedentary behavior, calorie burn, and rest patterns using Pandas, Seaborn, and Matplotlib.
 
 ---
 
@@ -56,6 +56,22 @@ I solved the following questions:
 
 ---
 
+## 📊 Excel Dashboard
+
+In addition to the Python analysis, I also built an **dashboard in Excel** to summarize key insights visually.  
+
+### Dashboard Preview:
+![Fitbit Activity Dashboard – Weekly Insights](./dashboard.png)
+
+### Dashboard Highlights:
+- **Percentage of Activity in Minutes**: Majority of time spent sedentary (81%), with smaller proportions of light, moderate, and very active minutes.  
+- **Calories vs Steps Taken**: Positive correlation between steps taken and calories burned.  
+- **Calories Burnt per Hour Logged**: Shows fluctuations in energy expenditure per logged hour.  
+- **User Login Trends**: Highest engagement mid-week (Tue–Thu), slightly lower on weekends.  
+
+This dashboard complements the Python plots by providing a **quick, business-style overview** of the dataset.
+
+---
 ## 🚀 How to Reproduce
 
 1. Clone this repository  
