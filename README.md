@@ -120,6 +120,7 @@ Read the full write‐up, plots, and detailed insights on my blog:
 
 [View on Canva](https://www.canva.com/design/DAGzRUoK3Co/2ItcovRx7NhYYTa-qELv4A/edit?utm_content=DAGzRUoK3Co&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+---
 
 👨‍💻 **Author:** Munawer Jabeen  
 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/munawer-jabeen-900811380/) | [GitHub](https://github.com/Mjabeen164)  
