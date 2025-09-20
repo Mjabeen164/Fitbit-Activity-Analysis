@@ -91,7 +91,7 @@ This dashboard complements the Python plots by providing a **quick, business-sty
 
 ---
 
-## 📂 Project Structure (suggested)
+## 📂 Project Structure 
 
 ```
 fitbit-activity-analysis/
